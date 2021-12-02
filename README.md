@@ -1,7 +1,6 @@
 # PRUEBA PRACTICA SENIOR BACKEND
 ## Test API Million And UP
-API REAT para obtener información sobre propiedades,
-desarrollado en tecnologia .Ner core 5.
+API REAT para obtener información sobre propiedades.
 
 ## Herramientas utilizadas
 - Dotnet CLI
