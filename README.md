@@ -20,6 +20,17 @@ API REAT para obtener información sobre propiedades.
 - C#
 - NUnit
 
+## Onion Arquitectura 
+- Core
+    Application
+    Domain
+- Infraestructure
+    Persistence
+    Identity
+    Shared
+- Presentation
+    Api
+
 ## License
 
 MIT
