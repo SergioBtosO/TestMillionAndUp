@@ -1,0 +1,15 @@
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\bin\Debug\net5.0\MillionAndUp.Core.Application.deps.json
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\bin\Debug\net5.0\MillionAndUp.Core.Application.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\bin\Debug\net5.0\ref\MillionAndUp.Core.Application.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\bin\Debug\net5.0\MillionAndUp.Core.Application.pdb
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.csproj.AssemblyReference.cache
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.AssemblyInfoInputs.cache
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.AssemblyInfo.cs
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.csproj.CoreCompileInputs.cache
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\ref\MillionAndUp.Core.Application.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.pdb
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\bin\Debug\net5.0\MillionAndUp.Core.Domain.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\bin\Debug\net5.0\MillionAndUp.Core.Domain.pdb
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Core.Aplication\obj\Debug\net5.0\MillionAndUp.Core.Application.csproj.CopyComplete

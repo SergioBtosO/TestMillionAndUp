@@ -1,0 +1,17 @@
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Infraestructure.Shared.deps.json
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Infraestructure.Shared.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\ref\MillionAndUp.Infraestructure.Shared.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Infraestructure.Shared.pdb
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.csproj.AssemblyReference.cache
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.AssemblyInfoInputs.cache
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.AssemblyInfo.cs
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.csproj.CoreCompileInputs.cache
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\ref\MillionAndUp.Infraestructure.Shared.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.pdb
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Core.Application.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Core.Application.pdb
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\obj\Debug\net5.0\MillionAndUp.Infraestructure.Shared.csproj.CopyComplete
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Core.Domain.dll
+E:\Freelance\MillionAndUp\APITestMillionAndUp\MillionAndUp.Infraestructure.Shared\bin\Debug\net5.0\MillionAndUp.Core.Domain.pdb

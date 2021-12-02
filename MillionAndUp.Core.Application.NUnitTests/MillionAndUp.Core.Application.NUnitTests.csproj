@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MillionAndUp.Core.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoFixture" Version="4.17.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.12" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
+    <PackageReference Include="Moq" Version="4.16.1" />
+    <PackageReference Include="NUnit" Version="3.13.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MillionAndUp.Core.Aplication\MillionAndUp.Core.Application.csproj" />
+    <ProjectReference Include="..\MillionAndUp.Infraestructure.Persistence\MillionAndUp.Infraestructure.Persistence.csproj" />
+    <ProjectReference Include="..\MillionAndUp.Infraestructure.Shared\MillionAndUp.Infraestructure.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
