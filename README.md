@@ -21,15 +21,9 @@ API REAT para obtener información sobre propiedades.
 - NUnit
 
 ## Onion Arquitectura 
-- Core
-    Application
-    Domain
-- Infraestructure
-    Persistence
-    Identity
-    Shared
-- Presentation
-    Api
+- Core :  [Application] [Domain]
+- Infraestructure: [Persistence] [Identity] [Shared]
+- Presentation: [Api]
 
 ## License
 
